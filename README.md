@@ -26,7 +26,7 @@ This project utilizes the following technologies:
 - **CSS**: Styling and layout, ensuring the website is visually appealing.
 - **JavaScript**: Functionality enhancements, including progress bar animations and resume download features.
 - **jQuery**: Simplifies DOM manipulation and event handling for a smoother user experience.
-- **Bootstrap**: (if applicable) Used for responsive design and pre-built components.
+- **Bootstrap**: Used for responsive design and pre-built components.
 
 ## Getting Started
 
